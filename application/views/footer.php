@@ -15,7 +15,6 @@
     </div>
     <div id="copyright">
         &copy 2014 Miguel Huerta. All Rights Reserved.
-            This site was created using Codeigniter
     </div>
 </div>
     </body>
